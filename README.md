@@ -1,4 +1,8 @@
 # Frontend
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6ca29abbead6b91c7953c34583299f17e3e50b96
 # CollimatorProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.9.
